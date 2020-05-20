@@ -1,2 +1,0 @@
-# joeyang.github.io
-blog
