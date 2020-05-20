@@ -1,139 +1,211 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Even - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
+    <title>Tags on Joe&#39;s Blog</title>
+    <link>http://joeyang0426.github.io/tags/</link>
+    <description>Recent content in Tags on Joe&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 11 Jul 2018 06:00:00 +0800</lastBuildDate>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://joeyang0426.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>.NET</title>
-      <link>http://localhost:1313/tags/.net/</link>
-      <pubDate>Wed, 11 Jul 2018 06:00:00 +0800</pubDate>
+      <title>disqus</title>
+      <link>http://joeyang0426.github.io/tags/disqus/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/.net/</guid>
+      <guid>http://joeyang0426.github.io/tags/disqus/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>csharp</title>
-      <link>http://localhost:1313/tags/csharp/</link>
-      <pubDate>Wed, 11 Jul 2018 06:00:00 +0800</pubDate>
+      <title>google analytics</title>
+      <link>http://joeyang0426.github.io/tags/google-analytics/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/csharp/</guid>
+      <guid>http://joeyang0426.github.io/tags/google-analytics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>English</title>
-      <link>http://localhost:1313/tags/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>gravatar</title>
+      <link>http://joeyang0426.github.io/tags/gravatar/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/english/</guid>
+      <guid>http://joeyang0426.github.io/tags/gravatar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>preview</title>
-      <link>http://localhost:1313/tags/preview/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>hexo theme</title>
+      <link>http://joeyang0426.github.io/tags/hexo-theme/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/preview/</guid>
+      <guid>http://joeyang0426.github.io/tags/hexo-theme/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag-2</title>
-      <link>http://localhost:1313/tags/tag-2/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>responsive</title>
+      <link>http://joeyang0426.github.io/tags/responsive/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tag-2/</guid>
+      <guid>http://joeyang0426.github.io/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag-4</title>
-      <link>http://localhost:1313/tags/tag-4/</link>
-      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
+      <title>html elements</title>
+      <link>http://joeyang0426.github.io/tags/html-elements/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tag-4/</guid>
+      <guid>http://joeyang0426.github.io/tags/html-elements/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>日本語</title>
-      <link>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
-      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
+      <title>markdown</title>
+      <link>http://joeyang0426.github.io/tags/markdown/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <guid>http://joeyang0426.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag-1</title>
-      <link>http://localhost:1313/tags/tag-1/</link>
-      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      <title>cover image</title>
+      <link>http://joeyang0426.github.io/tags/cover-image/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tag-1/</guid>
+      <guid>http://joeyang0426.github.io/tags/cover-image/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>中文</title>
-      <link>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</link>
-      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      <title>github theme</title>
+      <link>http://joeyang0426.github.io/tags/github-theme/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</guid>
+      <guid>http://joeyang0426.github.io/tags/github-theme/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag-3</title>
-      <link>http://localhost:1313/tags/tag-3/</link>
-      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      <title>highlight code</title>
+      <link>http://joeyang0426.github.io/tags/highlight-code/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tag-3/</guid>
+      <guid>http://joeyang0426.github.io/tags/highlight-code/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Theme preview</title>
-      <link>http://localhost:1313/tags/theme-preview/</link>
-      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      <title>test</title>
+      <link>http://joeyang0426.github.io/tags/test/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/theme-preview/</guid>
+      <guid>http://joeyang0426.github.io/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
-      <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
+      <title>tag plugins</title>
+      <link>http://joeyang0426.github.io/tags/tag-plugins/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <guid>http://joeyang0426.github.io/tags/tag-plugins/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/tags/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      <title>social</title>
+      <link>http://joeyang0426.github.io/tags/social/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/syntax-highlighting/</guid>
+      <guid>http://joeyang0426.github.io/tags/social/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag-5</title>
-      <link>http://localhost:1313/tags/tag-5/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      <title>tags</title>
+      <link>http://joeyang0426.github.io/tags/tags/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tag-5/</guid>
+      <guid>http://joeyang0426.github.io/tags/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagination</title>
+      <link>http://joeyang0426.github.io/tags/pagination/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://joeyang0426.github.io/tags/pagination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dailymotion</title>
+      <link>http://joeyang0426.github.io/tags/dailymotion/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://joeyang0426.github.io/tags/dailymotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videos integration</title>
+      <link>http://joeyang0426.github.io/tags/videos-integration/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://joeyang0426.github.io/tags/videos-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vimeo</title>
+      <link>http://joeyang0426.github.io/tags/vimeo/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://joeyang0426.github.io/tags/vimeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>http://joeyang0426.github.io/tags/youtube/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://joeyang0426.github.io/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chinese</title>
+      <link>http://joeyang0426.github.io/tags/chinese/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://joeyang0426.github.io/tags/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image gallery</title>
+      <link>http://joeyang0426.github.io/tags/image-gallery/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://joeyang0426.github.io/tags/image-gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>japanese</title>
+      <link>http://joeyang0426.github.io/tags/japanese/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://joeyang0426.github.io/tags/japanese/</guid>
       <description></description>
     </item>
     
