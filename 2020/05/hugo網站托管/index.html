@@ -255,15 +255,33 @@
 
 <p><img src="assets/markdown-img-paste-20200527104500589.png" alt="" /></p>
 
+<p>要使用repository之前，需要先使用git clone，這樣就不用做一些init和remote的動作了，</p>
+
+<p>這個就不多說了，直接上cmd如下列。</p>
+
+<p>這個指令建立在外層，記錄專案的內容，而網址就去github中取得，如下圖</p>
+
+<pre><code>git clone https://github.com/joeyang0426/blog-hugo.git
+</code></pre>
+
+<p><img src="assets/markdown-img-paste-20200527130055644.png" alt="" /></p>
+
+<p>這個指令是記錄hugo生成的網站內容</p>
+
+<pre><code>git clone https://github.com/joeyang0426/joeyang0426.github.io.git
+</code></pre>
+
 <p>接下來就是建立hugo網頁放入repository，下列是HUGO專案主要內容，</p>
 
 <p>這些除了public，都可以放在專案repository(blog-hugo)，</p>
 
-<p>public是完成後由hugo產生的內容，到時候需要push到github.io。</p>
+<p>專案是用<code>hugo new site</code>產生，public是完成後由<code>hugo</code>產生的內容，</p>
+
+<p>到時候需要push到網站的repository(username.github.io)。</p>
 
 <pre><code>.
-├──archetypes/
-├──content/
+├── archetypes/
+├── content/
 ├── data/
 ├── layouts/
 ├── public/
@@ -272,7 +290,7 @@
 └── config.toml
 </code></pre>
 
-<p>本人是用最簡易的script，是由<a href="https://gohugo.io/documentation/">HUGO教學網站</a>提供，</p>
+<p>我是用最簡易的script管理網站內容，是由<a href="https://gohugo.io/documentation/">HUGO教學網站</a>提供，</p>
 
 <p>裡面有很多教學，之後有機再來介紹。</p>
 
@@ -302,6 +320,12 @@ git push origin master
 
 echo -e &quot;\033[0;32mDeploying updates to GitHub...\033[0m&quot;
 
+# remove all files.
+rm -f public/*
+cd joeyang0426.github.io
+git rm -r .
+cd ..
+
 # Build the project.
 hugo # if using a theme, replace by `hugo -t &lt;yourtheme&gt;`
 
@@ -325,6 +349,10 @@ git push origin master
 # Come Back
 cd ..
 </code></pre>
+
+<p>完成上列動作後，之後新增文章內到content/post的時候，或更改網頁，</p>
+
+<p>只要輕鬆的點pushSource.sh和deploy.sh，就會記錄專案內容且上傳網站了。</p>
               
             </div>
           </div>
